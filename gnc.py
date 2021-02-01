@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/env python
 import requests,time
-import sys
+import sys,os
+os.system("clear")
 
 x="""
  ██████╗ ███╗   ██╗ ██████╗
